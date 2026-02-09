@@ -1,0 +1,23 @@
+# Data & logs
+data/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models / outputs
+*.pt
+*.pth
+*.ckpt
+
+# Env / secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+
